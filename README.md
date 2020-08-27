@@ -1,6 +1,8 @@
 ## 基于高德地图API的路径规划
 从指定地点start，到终点end的路径规划，这里以南京地铁为例
 
+**Tools**: requests, beautifulsoup, re, Dijkstra algorithm
+
 **最优路径定义**：
 * 距离最短
 * 时间最短
