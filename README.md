@@ -13,5 +13,5 @@
 
 open .ipynb file to see instructions of getting the data and compute the shortest path.
 
-run test1.py to get the result.
+run test1.py to directly get the result.
 
